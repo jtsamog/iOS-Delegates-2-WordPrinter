@@ -19,11 +19,11 @@ int main(int argc, const char * argv[]) {
         WonkyController *wonkController = [[WonkyController alloc] init];
         
         printer.delegate = controller;
-//        printer.delegate = wonkController;
+        //        printer.delegate = wonkController;
         
-        [printer printWord:@"Hey"];
-        [printer printWord:@"Hey?"];
-        [printer printWord:@"Another time"];
+        [printer printWord:@"Hello"];
+        [printer printWord:@"Hello?"];
+        [printer printWord:@"Lighthouse Labs"];
         
         
         

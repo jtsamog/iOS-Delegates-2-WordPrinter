@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "9729E983C6B99AA1A88CACCED60A8B96B14DE144",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "9729E983C6B99AA1A88CACCED60A8B96B14DE144" : 9223372036854775807,
+    "9FE9A3046AEBD97DBC2AC7CB7537552D39AAF431" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "755374D7-02DD-4034-8F9D-524DF4CFF8A5",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "9729E983C6B99AA1A88CACCED60A8B96B14DE144" : "WordPrinter\/",
+    "9FE9A3046AEBD97DBC2AC7CB7537552D39AAF431" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "WordPrinter",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "WordPrinter.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jtsamog\/iOS-Delegates-2-WordPrinter.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9729E983C6B99AA1A88CACCED60A8B96B14DE144"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jtsamog\/Assignments.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9FE9A3046AEBD97DBC2AC7CB7537552D39AAF431"
+    }
+  ]
+}
