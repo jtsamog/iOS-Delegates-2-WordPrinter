@@ -14,4 +14,9 @@
     return 10;
 }
 
+-(BOOL)willIstar{
+    return YES;
+}
+
+
 @end

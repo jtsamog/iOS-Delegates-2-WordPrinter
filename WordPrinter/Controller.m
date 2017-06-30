@@ -20,4 +20,9 @@
     }
 }
 
+-(BOOL)willIstar{
+    return YES;
+}
+
+
 @end

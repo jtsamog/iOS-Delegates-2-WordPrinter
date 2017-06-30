@@ -23,9 +23,14 @@
         if([self.delegate willIstar]){
             NSLog(@"* %@ *", word);
         }else{
-            NSLog(@"&@", word);
+            NSLog(@"%@", word);
         }
     }
 }
+
+//-(BOOL)willIstar{
+//    return YES;
+//}
+
 
 @end
